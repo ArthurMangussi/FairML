@@ -6,7 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
-/DatasetsImputados
+/DatasetsImputados/MAR-random_Multivariado
+/DatasetsImputados/MNAR-deterministicFalse_Multivariado
 
 logs
 .vscode
